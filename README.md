@@ -20,4 +20,4 @@ Below are the steps on how to encrypt and decrypt using the tool
 
 ## Try it
 
-[Download and run the app](docs/FileEncrypterDecrypter.jar)
+[Download and run the app](https://github.com/tirthankarkundu17/file-encrypter-decrypter/raw/master/docs/FileEncrypterDecrypter.jar)
